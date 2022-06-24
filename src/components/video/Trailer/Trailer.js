@@ -1,7 +1,7 @@
 import React from 'react';
 import YouTube from 'react-youtube';
 
-const Trailer = () => {
+const Trailer = ({el}) => {
 
     const opts = {
         height: '200',
