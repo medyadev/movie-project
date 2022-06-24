@@ -19,7 +19,7 @@ const Trailer = () => {
         <div>
 
         </div>
-    );
+    )
 };
 
 export default Trailer;
